@@ -1,0 +1,20 @@
+{
+  "name": "generator-yoo",
+  "description": "",
+  "main": "generators/index.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
